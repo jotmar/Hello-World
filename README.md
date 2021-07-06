@@ -1,2 +1,2 @@
-# HelloWorld
-Repositório para aprendizado de git e git hub
+# Hello, World!
+Repositório para aprendizado de git e GitHub.
