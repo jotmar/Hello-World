@@ -4,9 +4,9 @@ Repositório para aprendizado de **Git e GitHub**.
 
 Feito durante aula gravada.
 
-Essa linha eu adicionei diretamente do *github*.
+Essa linha eu adicionei diretamente do __*github*__.
 
-Curso disponível no canal do __*Curso em Vídeo*__
+Curso disponível no canal do [Curso em Vídeo](https://www.youtube.com/user/cursosemvideo)
 
 ## Lista demarcadas em Markdown
 * Git
@@ -25,3 +25,9 @@ Curso disponível no canal do __*Curso em Vídeo*__
 - [x] Tarefa 2
 - [ ] Tarefa 3
 - [ ] Tarefa 4
+
+## Imagens utilizando Markdown
+
+![OctoGuanabara](https://user-images.githubusercontent.com/62457894/125852338-64918e91-abdd-497b-9cc4-b0f09e96908c.png)
+🖖
+🖥️
